@@ -1,4 +1,3 @@
-# CodingChallenge
-I had to replicate a design it was given to me using html5 and css3 only. 
+# Rent a scooter - page layout
+Scooter report page layout starting from a webdesign (png) using html5 and css3 only. 
 Use of tags and css rules restricted to some cases.
-Just an exercise.
